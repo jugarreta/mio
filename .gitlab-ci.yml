@@ -1,0 +1,7 @@
+ping-google:
+    rules:
+        - if: $CRON_NAME == "PING"
+    script:
+        - curl -X GET https://www.google.com
+        - echo "All done here."
+        
