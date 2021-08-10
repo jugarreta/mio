@@ -22,6 +22,6 @@ jobs:
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
       - run: GET https://varatija.000webhostapp.com/officemiwebhostingtry1.php
-      - run: GET https://varatija.000webhostapp.com/officemiwebhostingtry1.php
+      - run: GET https://fordevelopmio.webcindario.com/officemiwebhostingtry1.php
       - run: sleep 55
       - run: GET https://varatija.000webhostapp.com/officeinfyspoporte1.php
