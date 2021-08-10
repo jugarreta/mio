@@ -1,11 +1,10 @@
-name: Do things every 5 minutes
-on: 
+name: Do things every 9 hours
   push:
     branches: [ main ]
   pull_request:
     branches: [ main ]
   schedule:    
-    - cron:  '0 */5 * * *'
+    - cron:  '0 */9 * * *'
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
@@ -22,5 +21,6 @@ jobs:
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
       - run: GET https://varatija.000webhostapp.com/officemiwebhostingtry1.php
+      - run: GET https://fordevelopmio.webcindario.com/officemiwebhostingtry1.php
       - run: sleep 55
       - run: GET https://varatija.000webhostapp.com/officeinfyspoporte1.php
