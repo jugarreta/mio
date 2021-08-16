@@ -38,3 +38,7 @@ jobs:
       - run: GET https://committed-lanes.000webhostapp.com/homeworkutils_w.php?check_email=true
       - run: sleep 15
       - run: GET https://committed-lanes.000webhostapp.com/zilev.php?check_email=true
+      - run: sleep 15
+      - run: GET https://committed-lanes.000webhostapp.com/anibla.php?check_email=true
+      - run: sleep 15
+      - run: GET https://committed-lanes.000webhostapp.com/enyavdp.php?check_email=true
