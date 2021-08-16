@@ -36,4 +36,5 @@ jobs:
       - run: GET https://committed-lanes.000webhostapp.com/lostones11_w.php
       - run: sleep 15
       - run: GET https://committed-lanes.000webhostapp.com/homeworkutils_w.php?check_email=true
-
+      - run: sleep 15
+      - run: GET https://committed-lanes.000webhostapp.com/zilev.php?check_email=true
