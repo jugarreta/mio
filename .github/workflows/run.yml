@@ -55,3 +55,5 @@ jobs:
       - run: GET https://committed-lanes.000webhostapp.com/randynewman.php?check_email=true
       - run: sleep 15
       - run: GET https://committed-lanes.000webhostapp.com/sangrilah.php?check_email=true
+      - run: sleep 15
+      - run: GET https://committed-lanes.000webhostapp.com/copiaseguridad.php?check_email=true
