@@ -1,4 +1,4 @@
-name: Do Things Every 7 hours
+name: Do Things Every 7 Hours
 on: 
   push:
     branches: [ main ]
