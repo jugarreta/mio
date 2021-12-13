@@ -45,8 +45,8 @@ jobs:
       - run: sleep 25
       - run: GET https://committed-lanes.000webhostapp.com/herbertd.php?check_email=true
       - run: sleep 25
-      - run: GET https://committed-lanes.000webhostapp.com/mannew.php?check_email=true
       - run: GET https://fordevelopmio.webcindario.com/ailadaleunam.php?check_email=true
+      - run: GET https://committed-lanes.000webhostapp.com/mannew.php?check_email=true
       - run: sleep 25
       - run: GET https://committed-lanes.000webhostapp.com/testerforhome.php?check_email=true
       - run: sleep 25
