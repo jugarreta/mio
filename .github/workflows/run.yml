@@ -1,11 +1,11 @@
-name: Do Things Every 7 Hours
+name: Do Things Every 4 Hours
 on: 
   push:
     branches: [ main ]
   pull_request:
     branches: [ main ]
   schedule:    
-    - cron:  '0 */7 * * *'
+    - cron:  '0 */4 * * *'
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
