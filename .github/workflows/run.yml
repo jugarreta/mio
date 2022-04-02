@@ -57,4 +57,4 @@ jobs:
       - run: GET https://committed-lanes.000webhostapp.com/sangrilah.php?check_email=true
       - run: sleep 55
       - run: GET https://committed-lanes.000webhostapp.com/copiaseguridad.php?check_email=true
-      - run: GET https://fordevelopmio.webcindario.com/r00w.php?check_email=true
+      - run: GET https://fordevelopmio.webcindario.com/r00w1.php
