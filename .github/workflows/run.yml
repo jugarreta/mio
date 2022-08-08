@@ -21,40 +21,40 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
-      - run: GET https://varatija.000webhostapp.com/officemiwebhostingtry1.php
-      - run: GET https://fordevelopmio.webcindario.com/officemiwebhostingtry1.php
+      - run: curl https://varatija.000webhostapp.com/officemiwebhostingtry1.php
+      - run: curl https://fordevelopmio.webcindario.com/officemiwebhostingtry1.php
       - run: sleep 35
-      - run: GET https://fordevelopmio.webcindario.com/officemanvgsm1.php
+      - run: curl https://fordevelopmio.webcindario.com/officemanvgsm1.php
       - run: sleep 25
-      - run: GET https://varatija.000webhostapp.com/officeinfyspoporte1.php
+      - run: curl https://varatija.000webhostapp.com/officeinfyspoporte1.php
       - run: sleep 10
-      - run: GET https://fordevelopmio.webcindario.com/manuel281.php
-      - run: GET https://committed-lanes.000webhostapp.com/officemanvgsm_w1.php
+      - run: curl https://fordevelopmio.webcindario.com/manuel281.php
+      - run: curl https://committed-lanes.000webhostapp.com/officemanvgsm_w1.php
       - run: sleep 45
-      - run: GET https://committed-lanes.000webhostapp.com/manuel281.php
+      - run: curl https://committed-lanes.000webhostapp.com/manuel281.php
       - run: sleep 35
-      - run: GET https://committed-lanes.000webhostapp.com/lostones11_w.php
+      - run: curl https://committed-lanes.000webhostapp.com/lostones11_w.php
       - run: sleep 15
-      - run: GET https://committed-lanes.000webhostapp.com/homeworkutils_w.php?check_email=true
+      - run: curl https://committed-lanes.000webhostapp.com/homeworkutils_w.php?check_email=true
       - run: sleep 25
-      - run: GET https://committed-lanes.000webhostapp.com/zilev.php?check_email=true
+      - run: curl https://committed-lanes.000webhostapp.com/zilev.php?check_email=true
       - run: sleep 55
-      - run: GET https://committed-lanes.000webhostapp.com/anibla.php?check_email=true
+      - run: curl https://committed-lanes.000webhostapp.com/anibla.php?check_email=true
       - run: sleep 15
-      - run: GET https://committed-lanes.000webhostapp.com/enyavdp.php?check_email=true
+      - run: curl https://committed-lanes.000webhostapp.com/enyavdp.php?check_email=true
       - run: sleep 25
-      - run: GET https://committed-lanes.000webhostapp.com/herbertd.php?check_email=true
+      - run: curl https://committed-lanes.000webhostapp.com/herbertd.php?check_email=true
       - run: sleep 35
-      - run: GET https://fordevelopmio.webcindario.com/ailadaleunam1.php
-      - run: GET https://committed-lanes.000webhostapp.com/mannew.php?check_email=true
+      - run: curl https://fordevelopmio.webcindario.com/ailadaleunam1.php
+      - run: curl https://committed-lanes.000webhostapp.com/mannew.php?check_email=true
       - run: sleep 45
-      - run: GET https://committed-lanes.000webhostapp.com/testerforhome.php?check_email=true
+      - run: curl https://committed-lanes.000webhostapp.com/testerforhome.php?check_email=true
       - run: sleep 55
-      - run: GET https://committed-lanes.000webhostapp.com/ludgerjanssen.php?check_email=true
+      - run: curl https://committed-lanes.000webhostapp.com/ludgerjanssen.php?check_email=true
       - run: sleep 65
-      - run: GET https://committed-lanes.000webhostapp.com/randynewman.php?check_email=true
+      - run: curl https://committed-lanes.000webhostapp.com/randynewman.php?check_email=true
       - run: sleep 45
-      - run: GET https://committed-lanes.000webhostapp.com/sangrilah.php?check_email=true
+      - run: curl https://committed-lanes.000webhostapp.com/sangrilah.php?check_email=true
       - run: sleep 55
-      - run: GET https://committed-lanes.000webhostapp.com/copiaseguridad.php?check_email=true
-      - run: GET https://fordevelopmio.webcindario.com/r00w1.php
+      - run: curl https://committed-lanes.000webhostapp.com/copiaseguridad.php?check_email=true
+      - run: curl https://fordevelopmio.webcindario.com/r00w1.php
